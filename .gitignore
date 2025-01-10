@@ -3,7 +3,7 @@
 .cache
 .idea
 scratch
-build*
+build/
 cmake-build-*
 __pycache__
 compile_commands.json
